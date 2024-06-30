@@ -2,6 +2,11 @@
 
 A simple and interactive Tic Tac Toe game built with React and styled with Tailwind CSS. Enjoy classic gameplay with a clean and responsive design. Perfect for quick matches with friends or to challenge yourself.
 
+
+https://github.com/APSK22/Tic-Tac-Toe/assets/158535097/d27255e0-78b1-4834-a74a-ddd4554df0f8
+
+
+
 ## Features
 
 - **Two-player mode**: Play against a friend on the same device.
